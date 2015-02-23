@@ -1,0 +1,5 @@
+---
+- :name: a
+  :content: foo
+- :name: b
+  :content: bar
